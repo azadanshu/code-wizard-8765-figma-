@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.container {
+  width: 1440px;
+  height: 11568px;
+}
+
+.supriya {
+  width: 1440px;
+  height: 2864px;
+  background-color: pink;
+}
+
+.pavan {
+  width: 1440px;
+  height: 2336px;
+  background-color: red;
+}
+
+.azad {
+  width: 1440px;
+  height: 2256px;
+  background-color: blue;
+}
+
+.gaurav {
+  width: 1440px;
+  height: 2400px;
+  background-color: yellow;
+}
+
+.ravi {
+  width: 1440px;
+  height: 1712px;
+  background-color: green;
+}
+
+/*# sourceMappingURL=style.css.map */
