@@ -12,18 +12,20 @@ body {
 .supriya {
   width: 1440px;
   height: 768px;
+  background-color: pink;
   flex-shrink: 0;
 }
 
 .pavan {
   width: 1440px;
+  height: 2096px;
+  background-color: red;
   height: auto;
 }
 
 .azad {
   width: 1440px;
-  height: 2256px;
-  background-color: blue;
+  height: 1500px;
 }
 
 .gaurav {
@@ -146,8 +148,196 @@ h6 {
   width: 20px;
   height: 14px;
   flex-shrink: 0;
-
   background: #434CCC;
+}
+
+.azad1 {
+  width: 1440px;
+  height: 656px;
+  flex-shrink: 0;
+  display: flex;
+}
+
+.azad1-sub1 {
+  width: 50%;
+  background: #434CCC;
+  color: var(--Text_White, #FFF);
+  padding-left: 135px;
+}
+.azad1-sub1 #azad1-h5 {
+  margin-top: 127px;
+  width: 127px;
+  height: 24px;
+}
+.azad1-sub1 #azad1-h5 h5 {
+  /* H5 */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 4.8px;
+  text-transform: uppercase;
+}
+.azad1-sub1 #azad1-h2 {
+  margin-top: 21px;
+  width: 331px;
+  height: 128px;
+}
+.azad1-sub1 #azad1-h2 h2 {
+  /* H2 */
+  font-family: DM Serif Display;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 64px; /* 114.286% */
+}
+.azad1-sub1 #azad1-p {
+  margin-top: 29px;
+  width: 470px;
+  height: 103px;
+}
+.azad1-sub1 #azad1-p p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+.azad1-sub1 button {
+  margin-top: 32px;
+  flex-shrink: 0;
+  width: 170px;
+  height: 48px;
+  color: #FFF;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 150% */
+  border-radius: 5px;
+  background: var(--Primary_2, #F1B505);
+  border: none;
+}
+
+.azad2 {
+  padding: 0;
+  margin: 0;
+  width: 1440px;
+  height: 800px;
+  color: var(--Text_Black, #000);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.azad2 .azad2-h5 {
+  margin: 0;
+  padding: 0;
+  margin-top: 63px;
+  width: 140px;
+  height: 24px;
+  text-align: center;
+}
+.azad2 .azad2-h5 h5 {
+  /* H5 */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 4.8px;
+  text-transform: uppercase;
+}
+.azad2 .azad2-h2 {
+  margin: 0;
+  padding: 0;
+  margin-top: 21px;
+  width: 321px;
+  height: 64px;
+}
+.azad2 .azad2-h2 h2 {
+  /* H2 */
+  font-family: DM Serif Display;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 64px; /* 114.286% */
+}
+.azad2 .azad2-p {
+  margin: 0;
+  padding: 0;
+  margin-top: 29px;
+  width: 570px;
+  height: 83px;
+  text-align: center;
+}
+.azad2 .azad2-p p {
+  /* Text_Big */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+.azad2 .azad-card {
+  margin: 0;
+  padding: 0;
+  margin-top: 36px;
+  height: 485px;
+  width: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 30px;
+}
+.azad2 .azad-card .card {
+  width: 370px;
+  height: 480px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: #FFF;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.3);
+}
+.azad2 .azad-card .card .card-img {
+  margin: 32px;
+}
+.azad2 .azad-card .card .card-img img {
+  border-radius: 50%;
+}
+.azad2 .azad-card .card .card-h4 {
+  width: auto;
+  height: 32px;
+  margin-left: 30px;
+}
+.azad2 .azad-card .card .card-h4 h4 {
+  color: var(--Text_Black, #000);
+  /* H4 */
+  font-family: DM Serif Display;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 133.333% */
+}
+.azad2 .azad-card .card .details {
+  margin-left: 32px;
+  margin-top: 24px;
+}
+.azad2 .azad-card .card .details .underline {
+  width: 338px;
+  height: 1px;
+  flex-shrink: 0;
+  opacity: 0.1011;
+  background: #000;
+}
+.azad2 .azad-card .card .details .card-p-media {
+  margin-top: 18px;
+  display: flex;
+  justify-content: space-between;
+}
+.azad2 .azad-card .card .details .card-p-media p {
+  color: var(--text-black-50, rgba(0, 0, 0, 0.5));
+  /* Text_Gray */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .gaurav {
@@ -404,6 +594,13 @@ h6 {
   line-height: 24px; /* 150% */
 }
 
+.azad2 .azad-card .card .details .card-p-media .social-media a {
+  margin-right: 24px;
+  fill: #000;
+  opacity: 0.3183;
+}
+}
+
 #h3 {
   position: absolute;
   top: 1248px;
@@ -540,6 +737,4 @@ h6 {
     margin-top: 16px;
   }
 }
-
-
 
