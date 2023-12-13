@@ -3,10 +3,12 @@ body {
   padding: 0px;
 }
 
+
 .container {
   width: 1440px;
   height: auto;
   padding-bottom: 50px;
+
 }
 
 .supriya {
@@ -15,10 +17,12 @@ body {
   flex-shrink: 0; 
 }
 
+
 .pavan {
   width: 1440px;
   height: 2336px;
   background-color: red;
+
 }
 
 .azad {
@@ -38,6 +42,7 @@ body {
   height: 1712px;
   background-color: green;
 }
+
 
 @import "supriya";
 @import "azad";
