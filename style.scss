@@ -7,6 +7,7 @@ body{
 .container{
     width: 1440px;
     height: 11568px;
+    
 }
 
 .supriya{
@@ -17,8 +18,7 @@ body{
 
 .pavan{
     width: 1440px;
-    height: 2336px;
-    background-color: red;
+    height: auto;
 }
 
 .azad{
@@ -38,6 +38,7 @@ body{
     height: 1712px;
     background-color: green;
 }
+
 
 @import "supriya";
 @import "azad";
