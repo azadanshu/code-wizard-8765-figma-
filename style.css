@@ -1,24 +1,23 @@
 body {
-  margin: 0;
-  padding: 0;
-  width: 100%;
+  margin: 0px;
+  padding: 0px;
 }
 
 .container {
   width: 1440px;
-  height: 11568px;
+  height: auto;
+  padding-bottom: 50px;
 }
 
 .supriya {
   width: 1440px;
-  height: 2864px;
-  background-color: pink;
+  height: 768px;
+  flex-shrink: 0;
 }
 
 .pavan {
   width: 1440px;
-  height: 2336px;
-  background-color: red;
+  height: auto;
 }
 
 .azad {
@@ -40,6 +39,122 @@ body {
 }
 
 #container-main1 {
+  width: 1440px;
+  height: 768px;
+  background: #434ccc;
+}
+@media screen and (max-width: 375px) {
+  #container-main1 {
+    width: 375px;
+    height: 768px;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+#box-main1 {
+  width: 1170px;
+  margin: auto;
+  height: 768px;
+}
+@media screen and (max-width: 375px) {
+  #box-main1 {
+    width: 346px;
+    margin-left: 14px;
+    margin-right: 15px;
+    height: 768px;
+  }
+}
+
+#navbar {
+  display: flex;
+}
+
+#logo {
+  color: var(--Text_White, #fff);
+  font-family: DM Serif Display;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 48px;
+  width: 102px;
+  height: 48px;
+  margin-top: 16px;
+  margin-right: 534px;
+}
+@media screen and (max-width: 375px) {
+  #logo {
+    height: 32px;
+    width: 62px;
+    margin-right: 240px;
+  }
+}
+
+#nav {
+  width: 324px;
+  height: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--Text_White, #fff);
+  text-align: right;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 150% */
+  margin-right: 40px;
+  margin-top: 28px;
+}
+@media screen and (max-width: 375px) {
+  #nav {
+    display: none;
+  }
+}
+
+#but-1 {
+  margin-top: 16px;
+  width: 170px;
+  height: 48px;
+  flex-shrink: 0;
+  background: #434ccc;
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #fff;
+  text-align: center;
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+}
+@media screen and (max-width: 375px) {
+  #but-1 {
+    display: none;
+  }
+}
+
+.fa-solid {
+  width: 20px;
+  height: 14px;
+  flex-shrink: 0;
+
+  background: #434CCC;
+}
+
+.gaurav {
+  width: 1440px;
+}
+
+.boxg {
   width: 1440px;
   height: 768px;
   flex-shrink: 0;
@@ -280,6 +395,8 @@ body {
   height: 51px;
   width: 260px;
   color: var(--text-black-50, rgba(0, 0, 0, 0.5));
+
+
   font-family: DM Sans;
   font-size: 16px;
   font-style: normal;
@@ -316,3 +433,113 @@ body {
   font-weight: 400px;
   line-height: 24px;
 }/*# sourceMappingURL=style.css.map */
+
+  line-height: 24px;
+  letter-spacing: 4.8px;
+  text-transform: uppercase;
+}
+.child-footer-1 h2 {
+  color: var(--Text_Black, #000);
+  font-family: DM Serif Display;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60px;
+}
+
+.child-footer-2 {
+  width: 54%;
+}
+
+.child-footer-2 #button-1 {
+  width: 170px;
+  height: 48px;
+  color: #fff;
+  background-color: #434ccc;
+  text-align: center;
+
+  letter-spacing: 4.8px;
+  text-transform: uppercase;
+}
+
+  font-family: DM Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+
+  line-height: 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.child-footer-2 input {
+  margin-top: 25%;
+  padding-left: 15px;
+  border-radius: 5px;
+  border: 1px solid #dadada;
+  background: #fff;
+  width: 370px;
+  height: 48px;
+  margin-right: 30px;
+}
+
+@media (max-width: 768px) {
+  #child-footer {
+    display: block;
+    margin-left: 8%;
+  }
+  .child-footer-1 {
+    width: 85%;
+    padding-top: 7%;
+  }
+  .child-footer-1 h5 {
+    color: #000;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 14px;
+    letter-spacing: 2.8px;
+    text-transform: uppercase;
+  }
+  .child-footer-1 h2 {
+    width: 209px;
+    color: var(--Text_Black, #000);
+    font-family: DM Serif Display;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 40px;
+    text-align: justify;
+  }
+  .child-footer-2 {
+    width: 100%;
+  }
+  .child-footer-2 input {
+    border-radius: 5px;
+    border: 1px solid #dadada;
+    background: #fff;
+    width: 300px;
+    height: 48px;
+    margin: auto;
+  }
+  .child-footer-2 #button-1 {
+    color: #fff;
+    background-color: #434ccc;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 90%;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    border: none;
+    border-radius: 5px;
+    width: 170px;
+    height: 48px;
+    margin-top: 16px;
+  }
+}
+
+
+
