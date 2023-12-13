@@ -1,7 +1,6 @@
-body{
-    margin: 0;
-    padding: 0;
-    width: 100%;
+body {
+  margin: 0px;
+  padding: 0px;
 }
 
 .container{
@@ -25,19 +24,46 @@ body{
 .azad{
     width: 1440px;
     height: 1500px;
+
+.container {
+  width: 1440px;
+  height: auto;
+  padding-bottom: 50px;
+
 }
 
-.gaurav{
-    width: 1440px;
-    height: 2400px;
-    background-color: yellow;
+.supriya {
+  width: 1440px;
+  height: 768px;
+  flex-shrink: 0; 
 }
 
-.ravi{
-    width: 1440px;
-    height: 1712px;
-    background-color: green;
+
+.pavan {
+  width: 1440px;
+  height: 2336px;
+  background-color: red;
+
 }
+
+.azad {
+  width: 1440px;
+  height: 2256px;
+  background-color: blue;
+}
+
+.gaurav {
+  width: 1440px;
+  height: 2400px;
+  background-color: yellow;
+}
+
+.ravi {
+  width: 1440px;
+  height: 1712px;
+  background-color: green;
+}
+
 
 @import "supriya";
 @import "azad";
