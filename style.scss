@@ -1,42 +1,46 @@
-body{
-    margin: 0;
-    padding: 0;
-    width: 100%;
+body {
+  margin: 0px;
+  padding: 0px;
 }
 
-.container{
-    width: 1440px;
-    height: 11568px;
-    
+
+.container {
+  width: 1440px;
+  height: auto;
+  padding-bottom: 50px;
+
 }
 
-.supriya{
-    width: 1440px;
-    height: 2864px;
-    background-color: pink;
+.supriya {
+  width: 1440px;
+  height: 768px;
+  flex-shrink: 0; 
 }
 
-.pavan{
-    width: 1440px;
-    height: auto;
+
+.pavan {
+  width: 1440px;
+  height: 2336px;
+  background-color: red;
+
 }
 
-.azad{
-    width: 1440px;
-    height: 2256px;
-    background-color: blue;
+.azad {
+  width: 1440px;
+  height: 2256px;
+  background-color: blue;
 }
 
-.gaurav{
-    width: 1440px;
-    height: 2400px;
-    background-color: yellow;
+.gaurav {
+  width: 1440px;
+  height: 2400px;
+  background-color: yellow;
 }
 
-.ravi{
-    width: 1440px;
-    height: 1712px;
-    background-color: green;
+.ravi {
+  width: 1440px;
+  height: 1712px;
+  background-color: green;
 }
 
 
