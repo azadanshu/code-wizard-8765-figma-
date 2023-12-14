@@ -9,39 +9,10 @@ body {
     padding-bottom: 50px;
 }
 
-.supriya{
-    width: 1440px;
-    height: 768px;
-    background-color: pink;
-}
-
-.pavan{
-    width: 1440px;
-    height: 2096px;
-    background-color: red;
-}
-
 .azad{
     width: 1440px;
-    height: 1500px;
-
-}
-
-.gaurav {
-  width: 1440px;
-  height: 2400px;
-  background-color: yellow;
-}
-
-.ravi {
-  width: 1440px;
-  height: 1712px;
-  background-color: green;
+    min-height: 1500px;
 }
 
 
-@import "supriya";
 @import "azad";
-@import "gaurav";
-@import "pavan";
-@import "ravi";
