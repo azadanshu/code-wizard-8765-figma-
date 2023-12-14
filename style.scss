@@ -24,8 +24,15 @@ body {
   height: 1568px;
   flex-shrink: 0;
 }
+.gaurav {
+  width: 1440px;
+  height: auto;
+  background-color: #f5f6fc;
+  
+}
 
 
 @import "pavan";
+@import "gaurav";
 @import "ravi";
 @import "azad";
