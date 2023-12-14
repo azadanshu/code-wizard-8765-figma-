@@ -17,13 +17,13 @@ $color-p1:black;
     background-color: #FFDD78;
     width:100%;
     height:768px;
-    
+  
 }
-.text1{
+.p-text1{
     max-width:520px;
     padding:60px 0px 36px 0px;
     text-align: center;
-    h2{
+    #pt-1{
         color:  $color-p1;
         font-family: DM Serif Display;
         font-size: 56px;
@@ -32,7 +32,7 @@ $color-p1:black;
          padding:0;
          margin:0;
         }
-        p{
+    #pt-2{
    
         font-family: DM Sans;
         font-size: 20px;
@@ -42,11 +42,11 @@ $color-p1:black;
         }
 }
 
-.box{
+.p-box{
     display: flex;
     gap:30px;
 }
-.cart{
+.p-cart{
     box-sizing: border-box;
     width:370px;
     height:416px;
@@ -78,7 +78,7 @@ $color-p1:black;
     line-height: 24px;
    }
    
-   #img{
+   #p-img{
         @include flex();
         justify-content: center;
         margin-bottom:54px;
@@ -86,16 +86,16 @@ $color-p1:black;
       
     }
    
-    #img-1{
+    #p-img-1{
         width: 132px;
         height: 114px;
       
     }
-    #img-2{
+    #p-img-2{
         width: 186px;
         height: 96px;
     }
-    #img-3{
+    #p-img-3{
         width: 144px;
         height: 126px;
     }
@@ -108,12 +108,17 @@ $color-p1:black;
 .white{
     background-color: white;
     height: 1328px;
-    max-width: 1440px;
+    width: 1440px;
     @include flex();
+   justify-content: space-around;
     
 .white-text{
     margin:63px 0px 13px 0px;
     text-align: center;
+    .con-img-text{
+        box-sizing: border-box;
+        padding:0px 5px 0px 5px;
+    }
     #w-1{
         color:#000;
     text-align: center;
@@ -153,7 +158,9 @@ $color-p1:black;
     background-image: url(./images/woman.png);
     background-position: center;
     background-size: cover;
-   width: 484px;
+
+   max-width:584px;
+   min-width:250px;
    height: 456px;
     }
    
@@ -164,20 +171,23 @@ $color-p1:black;
         background-image: url(./images/woman1.png);
         background-position: center;
         background-size: cover;
-        width: 484px;
+       
+        max-width:584px;
+        min-width: 250px;
         height: 456px;
         
     }
-    #c-21{
-    width:410px;
-    color: #000;
+   
+}
+#c-21{
+    max-width:400px;
+    color: #f36c6c;
     font-family: DM Serif Display;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
   
     }
-}
 #c-1{
     color: #000;
     font-family: DM Serif Display;
@@ -187,13 +197,13 @@ $color-p1:black;
     max-width: 323px;
 }
 #c-2{
-    max-width: 450px;
+    max-width: 400px;
     color:  rgba(0, 0, 0, 0.50);
     font-family: DM Sans;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
- 
+    text-wrap: wrap;
 }
 #c-3{
 color: #000;
@@ -212,9 +222,10 @@ font-weight: 700;
         
         height: 1632px;
         width: 375px;
+        padding-bottom:20px;
         
     }
-    .text1>h2{
+    .p-text1>h2{
      font-size:40px;
     }
     .con-img2{
@@ -230,18 +241,25 @@ font-weight: 700;
         height:fit-content;
      
     }
-    .box{
+    #w-2{
+        font-size:40px;
+    }
+    #c-1{
+        font-size:24px;
+    }
+    #c-21{
+        font-size:24px;
+    }
+    .p-box{
         flex-direction: column;
      
-        gap:2px;
+        gap:10px;
     }
     .contest-image-1{
         flex-direction: column;
-        
-       
+     
     }
     .contest-image-2{
         flex-direction: column;
-       
     }
 }
