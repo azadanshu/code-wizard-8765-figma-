@@ -86,16 +86,29 @@ h6 {
     display: none;
   }
 }
+// .fa-solid {
+//   display: none;
+//   margin-left: 20px;
+//   width: 20px;
+//   height: 14px;
+//   flex-shrink: 0;
+//   color: #fff;
+//   @media screen and (max-width: 375px) {
+//     display: block;
+//     margin-top: 24px;
+//   }
+// }
 .fa-solid {
+  display: none;
+  margin-left: 20px;
   width: 20px;
   height: 14px;
   flex-shrink: 0;
   color: #fff;
-  margin-top: 24px;
-  display: none;
+
   @media screen and (max-width: 375px) {
     display: block;
-    margin-left: 20px;
+    margin-top: 24px;
   }
 }
 
@@ -201,9 +214,9 @@ h6 {
 @media screen and (max-width: 375px) {
   #image-div {
     background-image: url(./clip-1.png);
-  
+
     background-size: 125% auto;
-    background-position: center; 
+    background-position: center;
     width: 350px;
     height: 300px;
     top: 465px;
@@ -212,4 +225,3 @@ h6 {
     left: 0px;
   }
 }
-
