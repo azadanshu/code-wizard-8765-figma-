@@ -1,6 +1,20 @@
-body {
-  margin: 0px;
-  padding: 0px;
+/* Error: Expected expression.
+ *    ,
+ * 29 |     background-position: ;
+ *    |                          ^
+ *    '
+ *   _ravi.scss 29:26  @import
+ *   style.scss 47:9   root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Expected expression.\a    \2577 \a 29 \2502      background-position: ;\d\a    \2502                           ^\a    \2575 \a   _ravi.scss 29:26  @import\a   style.scss 47:9   root stylesheet";
 }
 
 .container {
@@ -268,4 +282,8 @@ h6 {
     position: absolute;
     left: 0px;
   }
+
 }/*# sourceMappingURL=style.css.map */
+
+}
+
