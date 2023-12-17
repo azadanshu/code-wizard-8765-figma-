@@ -33,7 +33,7 @@ h6 {
 #logo-image{
   width: 100px;
   height: 70px;
-  // border: 1px solid;
+  cursor: pointer;
   padding: 0;
   margin: 0;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -85,6 +85,7 @@ h6 {
   line-height: 24px; /* 150% */
   margin-right: 40px;
   margin-top: 28px;
+  cursor: pointer;
   @media screen and (max-width: 375px) {
     display: none;
   }
@@ -105,6 +106,7 @@ h6 {
   font-style: normal;
   font-weight: 700;
   line-height: 24px;
+  cursor: pointer;
   @media screen and (max-width: 375px) {
     display: none;
   }
@@ -231,6 +233,7 @@ line-height: 24px; /* 150% */
   font-style: normal;
   font-weight: 700;
   line-height: 24px;
+  cursor: pointer;
 }
 
 #image-div {

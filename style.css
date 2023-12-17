@@ -81,6 +81,7 @@ h6 {
 #logo-image {
   width: 100px;
   height: 70px;
+  cursor: pointer;
   padding: 0;
   margin: 0;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -139,6 +140,7 @@ h6 {
   line-height: 24px; /* 150% */
   margin-right: 40px;
   margin-top: 28px;
+  cursor: pointer;
 }
 @media screen and (max-width: 375px) {
   #nav {
@@ -161,6 +163,7 @@ h6 {
   font-style: normal;
   font-weight: 700;
   line-height: 24px;
+  cursor: pointer;
 }
 @media screen and (max-width: 375px) {
   #but-1 {
@@ -289,6 +292,7 @@ h6 {
   font-style: normal;
   font-weight: 700;
   line-height: 24px;
+  cursor: pointer;
 }
 
 #image-div {
@@ -1270,6 +1274,7 @@ h4 {
   height: 48px;
   margin-left: 635px;
   margin-top: 50px;
+  cursor: pointer;
 }
 
 .container002 {
@@ -1567,6 +1572,7 @@ h4 {
   flex-shrink: 0;
   width: 170px;
   height: 48px;
+  cursor: pointer;
   color: #FFF;
   text-align: center;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -1703,6 +1709,7 @@ h4 {
 .azad2 .azad-card .card .details .card-p-media .social-media {
   margin-top: 18px;
   margin-right: 24px;
+  cursor: pointer;
 }
 .azad2 .azad-card .card .details .card-p-media .social-media i {
   margin-left: 10px;
