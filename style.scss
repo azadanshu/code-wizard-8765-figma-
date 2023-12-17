@@ -9,6 +9,11 @@ body {
     padding-bottom: 50px;
 }
 
+.supriya{
+  width: 1440px;
+  height: 768px;
+} 
+
 .azad{
     width: 1440px;
     min-height: 1500px;
@@ -31,7 +36,7 @@ body {
   
 }
 
-
+@import "supriya";
 @import "pavan";
 @import "gaurav";
 @import "ravi";
