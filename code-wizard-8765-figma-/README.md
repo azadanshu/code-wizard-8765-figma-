@@ -3,7 +3,7 @@ Project Name: Wizard Group Figma Project
 Overview
 Welcome to the Wizard Group Figma Project Template! This template is a sleek, responsive design crafted with HTML, CSS, and the power of SASS to create an engaging user experience. Whether you're looking to create a stunning portfolio, a corporate website, or a landing page, Vivid Roll is ready to roll out and make a strong impression.
 
-Preview the live template here: Vivid Roll Live Demo
+Preview the live template here: Wizard Group Live Demo  : https://wizard-figma-project.netlify.app/
 
 Features
 Responsive Design: Looks great on both desktop and mobile devices.
