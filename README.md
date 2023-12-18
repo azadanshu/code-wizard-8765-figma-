@@ -1,3 +1,3 @@
-# code-wizard-8765-figma-
+Project Name: Wizard Group FIgma
 Figma 
 added
