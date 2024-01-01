@@ -13,7 +13,7 @@ Code Wizard
 
 This project is a clone of the landing page of Reliance Digital, a leading electronics retail chain. The clone was created by a team of 5 members within a timeframe of 4 days. The project aimed to replicate the essential features and design elements of the original Reliance Digital landing page using HTML, CSS, and Bootstrap. The collaborative effort was spearheaded by the group named "Code Wizard."
 
-## Features
+# Features
 
 The Reliance Digital Clone project includes the following features, mirroring the functionality and design of the original landing page:
 
@@ -26,16 +26,16 @@ The Reliance Digital Clone project includes the following features, mirroring th
 
 4. **Footer :**Our project includes a comprehensive footer featuring links to the company's social media profiles. This mirrors the original website's commitment to maintaining an active online presence and engaging with customers on social platforms.
 
-## Screenshots
+# Screenshots
 
 
-## Nav-Bar
+## Header and Navigation
 
 <img src="Screenshot 2024-01-01 130837.png">
 
-## Carousels
-
 <img src="Carousel-offer.png">
+
+## Product Carousel
 
 ### Products
 <img src="crausel-item.png">
@@ -43,6 +43,7 @@ The Reliance Digital Clone project includes the following features, mirroring th
 ### Sales
 <img src="Midnight-sale.png">
 
+## Product Categories
 
 ### Items Carousels
 
@@ -53,7 +54,7 @@ The Reliance Digital Clone project includes the following features, mirroring th
 
 <img src="product-cat.png">
 
-### Footer
+## Footer 
 
 <img src="reliance-footer.png">
 
