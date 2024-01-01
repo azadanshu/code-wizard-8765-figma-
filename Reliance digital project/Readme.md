@@ -95,4 +95,5 @@ To view the Reliance Digital Clone locally, follow these steps:
 - Special thanks to Bootstrap for simplifying the development of a responsive and visually appealing user interface.
 Feedback, contributions, and suggestions are welcome! Feel free to enhance and customize this project further.
 
-Linkedin profile,github profile of members
+# Linkedin-Profiles
+ <a href="https://www.linkedin.com/in/pavankumar25/">link</a>
