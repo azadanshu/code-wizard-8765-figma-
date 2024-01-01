@@ -61,12 +61,20 @@ The project was developed based on a detailed design provided in Figma. The desi
 
 ## How to Use
 
-To explore the Code Wizard project, simply clone the repository and open the `index.html` file in your preferred web browser.
+## Getting Started
 
-```bash
-git clone https://github.com/your-username/code-wizard.git
-cd code-wizard
-```
+To view the Reliance Digital Clone locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   https://github.com/azadanshu/code-wizard-8765-figma-/tree/main/code-wizard-8765-figma-
+   ```
+
+2. Open the `index.html` file in your preferred web browser.
+
+3. Explore the clone and compare it with the original Reliance Digital landing page.
+
 
 ## Team Members
 
@@ -82,7 +90,14 @@ cd code-wizard
 We would like to express our gratitude to the entire Code Wizard team for their dedication and collaborative spirit during the project.
 
 
-Linkedin profile,github profile of members
+# Linkedin-Profiles
 
+ <a href="https://www.linkedin.com/in/md-azad-ansari-b08196218" target="_parent">Azad</a> 
+ 
+ <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb" target="_parent">Supriya</a>
+ 
+ <a href="https://www.linkedin.com/in/pavankumar25/" target="_parent">Pavan</a>
+ 
+ <a href="https://www.linkedin.com/in/ravimishra007" target="_parent">Ravi</a>
 
 
