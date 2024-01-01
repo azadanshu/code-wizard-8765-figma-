@@ -1,24 +1,6 @@
 project-logo
 # Reliance Digital Clone Project
 <img src="logo.svg">
-## Overview
-
-This project is a clone of the landing page of Reliance Digital, a leading electronics retail chain. The clone was created by a team of 5 members within a timeframe of 4 days. The project aimed to replicate the essential features and design elements of the original Reliance Digital landing page using HTML, CSS, and Bootstrap. The collaborative effort was spearheaded by the group named "Code Wizard."
-
-## Team Members
-
-- Team Lead: [Your Name] 
-- Frontend Developers: 
-    [Team Member 1] 
-    [Team Member 2] 
-    [Team Member 3]
-    [Team Member 4]
-
-## Technologies Used
-
-- HTML
-- CSS
-- Bootstrap
 
 ## Group Name
 
@@ -27,6 +9,9 @@ Code Wizard
 ## Project Duration
 
 4 days
+## Overview
+
+This project is a clone of the landing page of Reliance Digital, a leading electronics retail chain. The clone was created by a team of 5 members within a timeframe of 4 days. The project aimed to replicate the essential features and design elements of the original Reliance Digital landing page using HTML, CSS, and Bootstrap. The collaborative effort was spearheaded by the group named "Code Wizard."
 
 ## Features
 
@@ -69,7 +54,21 @@ To view the Reliance Digital Clone locally, follow these steps:
 
 3. Explore the clone and compare it with the original Reliance Digital landing page.
 
+## Team Members
 
+- **Team Lead**: [Md Azad Ansari (fw29_024)]
+- **Frontend Developers**:
+  1. [Supriya Hatele (fw28_263)]
+  2. [Pavan Kumar Vasantha (fw29_032)]
+  3. [Ravi Mishra (fw29_126)]
+  4. [Gaurav Dorle (fw28_199)]
+
+
+## Technologies Used
+
+- HTML
+- CSS
+- Bootstrap
 
 
 ## Acknowledgments
