@@ -5,6 +5,7 @@
 ## Project Overview
 The **Code Wizard** team, consisting of 5 talented members, proudly presents our collaborative project completed in just 4 days. Named after our team, this project aimed to transform a Figma design into a fully functional website. We utilized HTML, CSS, and SCSS to bring the vision to life, focusing on creating a responsive and user-friendly experience.
 
+
 Preview the live template here: Wizard Group Live Demo  : https://wizard-figma-project.netlify.app/
 
 Prerequisites
