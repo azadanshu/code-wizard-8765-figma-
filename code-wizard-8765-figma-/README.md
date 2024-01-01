@@ -23,7 +23,12 @@ Open the index.html file in your web browser to view the template.
 
 Our project boasts a sleek and responsive navigation bar with a hamburger menu for enhanced mobile usability. The navigation bar provides seamless access to different sections of the website, ensuring an intuitive browsing experience.
 
+#### Navigation:
 <img src="Navbar-FIgma.png">
+
+#### Hamburger Menu:
+
+<img src="Hemburger.png">
 
 ### 2. Information Section
 
