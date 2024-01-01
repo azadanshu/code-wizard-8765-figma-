@@ -18,13 +18,13 @@ This project is a clone of the landing page of Reliance Digital, a leading elect
 The Reliance Digital Clone project includes the following features, mirroring the functionality and design of the original landing page:
 
 
-1. **Header and Navigation: The top navigation bar is a crucial element of the landing page, offering users intuitive access to various sections. We faithfully reproduced this feature to ensure a seamless and familiar browsing experience.
+1. Header and Navigation: The top navigation bar is a crucial element of the landing page, offering users intuitive access to various sections. We faithfully reproduced this feature to ensure a seamless and familiar browsing experience.
 
-2. **Product Carousel :**Our team successfully implemented a dynamic product carousel, allowing users to easily browse through a selection of featured products. Our dynamic product carousel not only showcases featured products but also includes smooth transition effects and responsive design. Users can effortlessly navigate through a visually appealing display of products.
+2. Product Carousel :Our team successfully implemented a dynamic product carousel, allowing users to easily browse through a selection of featured products. Our dynamic product carousel not only showcases featured products but also includes smooth transition effects and responsive design. Users can effortlessly navigate through a visually appealing display of products.
 
-3. **Product Categories:** The website includes sections for various product categories, In addition to featuring popular brands, our project incorporates a search functionality within the brands section. Users can quickly find their preferred brands, making the browsing experience more efficient.
+3. Product Categories: The website includes sections for various product categories, In addition to featuring popular brands, our project incorporates a search functionality within the brands section. Users can quickly find their preferred brands, making the browsing experience more efficient.
 
-4. **Footer :**Our project includes a comprehensive footer featuring links to the company's social media profiles. This mirrors the original website's commitment to maintaining an active online presence and engaging with customers on social platforms.
+4. Footer :Our project includes a comprehensive footer featuring links to the company's social media profiles. This mirrors the original website's commitment to maintaining an active online presence and engaging with customers on social platforms.
 
 # Screenshots
 
@@ -96,11 +96,11 @@ To view the Reliance Digital Clone locally, follow these steps:
 Feedback, contributions, and suggestions are welcome! Feel free to enhance and customize this project further.
 
 # Linkedin-Profiles
- <a href="https://www.linkedin.com/in/md-azad-ansari-b08196218" target="_blank">Azad</a> 
+ <a href="https://www.linkedin.com/in/md-azad-ansari-b08196218" target="_parent">Azad</a> 
  
- <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb" target="_blank">Supriya</a>
+ <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb" target="_parent">Supriya</a>
  
- <a href="https://www.linkedin.com/in/pavankumar25/" target="_blank">Pavan</a>
+ <a href="https://www.linkedin.com/in/pavankumar25/" target="_parent">Pavan</a>
  
- <a href="https://www.linkedin.com/in/ravimishra007" target="_blank">Ravi</a>
+ <a href="https://www.linkedin.com/in/ravimishra007" target="_parent">Ravi</a>
 
