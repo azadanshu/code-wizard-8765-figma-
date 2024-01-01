@@ -28,6 +28,9 @@ The Reliance Digital Clone project includes the following features, mirroring th
 
 ## Screenshots
 
+### nav bar
+<img src="Screenshot 2024-01-01 130837.png">
+
 ### Home Page
 ![Home Page](screenshots/home_page.png)
 
