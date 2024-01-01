@@ -25,19 +25,19 @@ Open the index.html file in your web browser to view the template.
 
 Our project boasts a sleek and responsive navigation bar with a hamburger menu for enhanced mobile usability. The navigation bar provides seamless access to different sections of the website, ensuring an intuitive browsing experience.
 
-![Navigation Bar] <img src="Navbar-Figma.png">
+<img src="Navbar-FIgma.png">
 
 ### 2. Information Section
 
 We incorporated a dedicated section to showcase essential information about the website. This section serves as a focal point for users to gain insights into the purpose and offerings of the site.
 
-![Information Section](/screenshots/information_section.png)
+<img src="Body-Figma.png">
 
 ### 3. Footer with Social Media Accounts
 
 The project includes a comprehensive footer featuring links to the team's social media accounts. This not only promotes the team's online presence but also adds a personal touch to the website.
 
-![Footer](/screenshots/footer.png)
+<img src="Footer-FIgma.png">
 
 ### Additional Features
 
