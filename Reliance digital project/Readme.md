@@ -65,7 +65,7 @@ To view the Reliance Digital Clone locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/reliance-digital-clone.git
+   https://github.com/azadanshu/code-wizard-8765-figma-/tree/main/Reliance%20digital%20project
    ```
 
 2. Open the `index.html` file in your preferred web browser.
@@ -96,4 +96,11 @@ To view the Reliance Digital Clone locally, follow these steps:
 Feedback, contributions, and suggestions are welcome! Feel free to enhance and customize this project further.
 
 # Linkedin-Profiles
- <a href="https://www.linkedin.com/in/pavankumar25/">link</a>
+ <a href="https://www.linkedin.com/in/md-azad-ansari-b08196218" target="_blank">Azad</a> 
+ 
+ <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb" target="_blank">Supriya</a>
+ 
+ <a href="https://www.linkedin.com/in/pavankumar25/" target="_blank">Pavan</a>
+ 
+ <a href="https://www.linkedin.com/in/ravimishra007" target="_blank">Ravi</a>
+
