@@ -64,12 +64,12 @@ cd code-wizard
 
 ## Team Members
 
-- **Team Lead**: [Your Name]
+- **Team Lead**: [Md Azad Ansari (fw29_024)]
 - **Frontend Developers**:
-  1. [Team Member 1]
-  2. [Team Member 2]
-  3. [Team Member 3]
-  4. [Team Member 4]
+  1. [Supriya Hatele (fw28_263)]
+  2. [Pavan Kumar Vasantha (fw29_032)]
+  3. [Ravi Mishra (fw29_126)]
+  4. [Gaurav Dorle (fw28_199)]
 
 ## Acknowledgments
 
