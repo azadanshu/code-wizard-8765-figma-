@@ -13,6 +13,19 @@ Code Wizard
 
 This project is a clone of the landing page of Reliance Digital, a leading electronics retail chain. The clone was created by a team of 5 members within a timeframe of 4 days. The project aimed to replicate the essential features and design elements of the original Reliance Digital landing page using HTML, CSS, and Bootstrap. The collaborative effort was spearheaded by the group named "Code Wizard."
 
+Preview the live template here: Wizard Group Live Demo  : https://wizard-bootstrap-reliance-digital.netlify.app/ 
+
+Prerequisites
+A modern web browser
+A text editor (e.g., VS Code, Sublime Text)
+Basic knowledge of HTML/CSS and SASS
+Installation
+Clone the repository or download the ZIP to your local machine.
+Unzip the file if you've downloaded it as a ZIP.
+Open the folder in your text editor.
+Use a SASS compiler to compile the .scss files to .css or edit the CSS directly.
+Open the index.html file in your web browser to view the template.
+
 # Features
 
 The Reliance Digital Clone project includes the following features, mirroring the functionality and design of the original landing page:
