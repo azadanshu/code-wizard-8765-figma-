@@ -1,4 +1,4 @@
-project-logo
+
 # Reliance Digital Clone Project
 <img src="logo.svg">
 
@@ -28,20 +28,33 @@ The Reliance Digital Clone project includes the following features, mirroring th
 
 ## Screenshots
 
-### nav bar
+## nav-offer
+
+### nav-bar
+
 <img src="Screenshot 2024-01-01 130837.png">
 
-### Home Page
-![Home Page](screenshots/home_page.png)
+### offers
+
+<img src="Carousel-offer.png">
+
+<img src="Midnight-sale.png">
 
 ### Product Carousel
-![Product Carousel](screenshots/product_carousel.png)
+
+<img src="Crausel-product.png">
+
+
+
 
 ### Product Categories
-![Product Categories](screenshots/product_categories.png)
+
+
+<img src="product-cat.png">
 
 ### Footer
-![Footer](screenshots/footer.png)
+
+<img src="reliance-footer.png">
 
 ## Getting Started
 
