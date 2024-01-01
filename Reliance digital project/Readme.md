@@ -28,24 +28,25 @@ The Reliance Digital Clone project includes the following features, mirroring th
 
 ## Screenshots
 
-## nav-offer
 
-### nav-bar
+## Nav-Bar
 
 <img src="Screenshot 2024-01-01 130837.png">
 
-### offers
+## Carousels
 
 <img src="Carousel-offer.png">
 
+### Products
+<img src="crausel-item.png">
+
+### Sales
 <img src="Midnight-sale.png">
 
-### Product Carousel
+
+### Items Carousels
 
 <img src="Crausel-product.png">
-
-
-
 
 ### Product Categories
 
