@@ -4,6 +4,15 @@
 ### Project Logo:
 <img src="wizardLogo.jpeg">
 
+## Team Members
+
+- **Team Lead**: [Md Azad Ansari (fw29_024)]
+- **Frontend Developers**:
+  1. [Supriya Hatele (fw28_263)]
+  2. [Pavan Kumar Vasantha (fw29_032)]
+  3. [Ravi Mishra (fw29_126)]
+  4. [Gaurav Dorle (fw28_199)]
+
 ## Group Name
 
 Code Wizard
@@ -85,15 +94,6 @@ To view the Reliance Digital Clone locally, follow these steps:
 
 3. Explore the clone and compare it with the original Reliance Digital landing page.
 
-
-## Team Members
-
-- **Team Lead**: [Md Azad Ansari (fw29_024)]
-- **Frontend Developers**:
-  1. [Supriya Hatele (fw28_263)]
-  2. [Pavan Kumar Vasantha (fw29_032)]
-  3. [Ravi Mishra (fw29_126)]
-  4. [Gaurav Dorle (fw28_199)]
 
 ## Acknowledgments
 
