@@ -1,10 +1,8 @@
+## Project Name: Wizard Group Figma Project.
 
-# Reliance Digital Clone Project
-<img src="logo.svg">
 
-## Group Name
-
-Code Wizard
+### Project Logo:
+<img src="wizardLogo.jpeg">
 
 ## Team Members
 
@@ -15,14 +13,18 @@ Code Wizard
   3. [Ravi Mishra (fw29_126)]
   4. [Gaurav Dorle (fw28_199)]
 
+## Group Name
+
+Code Wizard
+
 ## Project Duration
 
 4 days
-## Overview
+## Project Overview
+The **Code Wizard** team, consisting of 5 talented members, proudly presents our collaborative project completed in just 4 days. Named after our team, this project aimed to transform a Figma design into a fully functional website. We utilized HTML, CSS, and SCSS to bring the vision to life, focusing on creating a responsive and user-friendly experience.
 
-This project is a clone of the landing page of Reliance Digital, a leading electronics retail chain. The clone was created by a team of 5 members within a timeframe of 4 days. The project aimed to replicate the essential features and design elements of the original Reliance Digital landing page using HTML, CSS, and Bootstrap. The collaborative effort was spearheaded by the group named "Code Wizard."
 
-Preview the live template here: Wizard Group Live Demo  : https://wizard-bootstrap-reliance-digital.netlify.app/ 
+Preview the live template here: Wizard Group Live Demo  : https://wizard-figma.vercel.app/
 
 Prerequisites
 A modern web browser
@@ -35,50 +37,48 @@ Open the folder in your text editor.
 Use a SASS compiler to compile the .scss files to .css or edit the CSS directly.
 Open the index.html file in your web browser to view the template.
 
-# Features
+## Project Features
 
-The Reliance Digital Clone project includes the following features, mirroring the functionality and design of the original landing page:
+### 1. Navigation Bar with Hamburger Menu
 
+Our project boasts a sleek and responsive navigation bar with a hamburger menu for enhanced mobile usability. The navigation bar provides seamless access to different sections of the website, ensuring an intuitive browsing experience.
 
-1. Header and Navigation: The top navigation bar is a crucial element of the landing page, offering users intuitive access to various sections. We faithfully reproduced this feature to ensure a seamless and familiar browsing experience.
+#### Navigation:
+<img src="Navbar-FIgma.png">
 
-2. Product Carousel :Our team successfully implemented a dynamic product carousel, allowing users to easily browse through a selection of featured products. Our dynamic product carousel not only showcases featured products but also includes smooth transition effects and responsive design. Users can effortlessly navigate through a visually appealing display of products.
+#### Hamburger Menu:
 
-3. Product Categories: The website includes sections for various product categories, In addition to featuring popular brands, our project incorporates a search functionality within the brands section. Users can quickly find their preferred brands, making the browsing experience more efficient.
+<img src="Hemburger.png">
 
-4. Footer :Our project includes a comprehensive footer featuring links to the company's social media profiles. This mirrors the original website's commitment to maintaining an active online presence and engaging with customers on social platforms.
+### 2. Information Section
 
-# Screenshots
+We incorporated a dedicated section to showcase essential information about the website. This section serves as a focal point for users to gain insights into the purpose and offerings of the site.
 
+<img src="Body-Figma.png">
 
-## Header and Navigation
+### 3. Footer with Social Media Accounts
 
-<img src="Screenshot 2024-01-01 130837.png">
+The project includes a comprehensive footer featuring links to the team's social media accounts. This not only promotes the team's online presence but also adds a personal touch to the website.
 
-<img src="Carousel-offer.png">
+<img src="Footer-FIgma.png">
 
-## Product Carousel
+### Additional Features
 
-### Products
-<img src="crausel-item.png">
+- **Responsive Design:** The entire website is designed to be responsive, ensuring optimal user experience across various devices and screen sizes.
 
-### Sales
-<img src="Midnight-sale.png">
+- **SCSS Integration:** We leveraged SCSS to enhance the maintainability and organization of our stylesheets, making it easier for developers to understand and contribute to the project.
 
-## Product Categories
+## Technologies Used
 
-### Items Carousels
+- HTML
+- CSS
+- SCSS
 
-<img src="Crausel-product.png">
+## Design Source
 
-### Product Categories
+The project was developed based on a detailed design provided in Figma. The design served as a blueprint for our implementation, ensuring accuracy and consistency with the envisioned user interface.
 
-
-<img src="product-cat.png">
-
-## Footer 
-
-<img src="reliance-footer.png">
+## How to Use
 
 ## Getting Started
 
@@ -87,7 +87,7 @@ To view the Reliance Digital Clone locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/azadanshu/code-wizard-8765-figma-/tree/main/Reliance%20digital%20project
+   https://github.com/azadanshu/code-wizard-8765-figma-/tree/main/code-wizard-8765-figma-
    ```
 
 2. Open the `index.html` file in your preferred web browser.
@@ -95,20 +95,13 @@ To view the Reliance Digital Clone locally, follow these steps:
 3. Explore the clone and compare it with the original Reliance Digital landing page.
 
 
-## Technologies Used
-
-- HTML
-- CSS
-- Bootstrap
-
-
 ## Acknowledgments
 
-- The Code Wizard team would like to express gratitude to Reliance Digital for providing an inspiring design for educational purposes.
-- Special thanks to Bootstrap for simplifying the development of a responsive and visually appealing user interface.
-Feedback, contributions, and suggestions are welcome! Feel free to enhance and customize this project further.
+We would like to express our gratitude to the entire Code Wizard team for their dedication and collaborative spirit during the project.
+
 
 # Linkedin-Profiles
+
  <a href="https://www.linkedin.com/in/md-azad-ansari-b08196218" target="_parent">Azad</a> 
  
  <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb" target="_parent">Supriya</a>
